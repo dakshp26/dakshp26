@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning opencv and database management.
 - 💞️ I’m looking to collaborate on any basic project for intermediate programmers.
 - 📫 How to reach me - Mail on daksh.collab@gmail.com wih projects or ideas I can be a part of.
+
 Eager to be a part of paid programming internships
 
 I am proficient in python and java and on my way to learning C++
