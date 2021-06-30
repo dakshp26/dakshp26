@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daksh
 - 👀 I’m interested in java and python.
-- 🌱 I’m currently learning opencv and database management.
+- 🌱 I’m currently learning opencv and tensorflow.
 - 💞️ I’m looking to collaborate on any basic project for intermediate programmers.
 - 📫 How to reach me - Mail on daksh.collab@gmail.com wih projects or ideas I can be a part of.
 
