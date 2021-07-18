@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daksh
-- 👀 I’m interested in Python and ML.
+- 👀 I’m interested in Python, WebDev and ML.
 - 🌱 I’m currently learning JavaScript and Deep Learning.
 - 💞️ I’m looking to collaborate on any basic project for intermediate programmers.
 - 📫 How to reach me - Mail on daksh.collab@gmail.com wih projects or ideas I can be a part of.
