@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, WebDev and ML.
 - 🌱 I’m currently learning JavaScript and Deep Learning.
 - 💞️ I’m looking to collaborate on any basic project for intermediate programmers.
-- 📫 How to reach me - Mail on daksh.collab@gmail.com wih projects or ideas I can be a part of.
+- 📫 How to reach me - Mail on dakshp26work@gmail.com wih projects or ideas I can be a part of.
 
 Eager to be a part of paid programming internships
 
