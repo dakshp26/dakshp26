@@ -6,7 +6,6 @@
 
 Eager to be a part of paid programming internships
 
-I am proficient in Python and currently learning Java and JavaScript
 
 <!---
 dakshp26/dakshp26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
