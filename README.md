@@ -5,4 +5,3 @@
 
 # Social Links
  - [LinkedIn](https://www.linkedin.com/in/dakshp26)
- - Email - dakshp26college@gmail.com
