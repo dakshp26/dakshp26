@@ -30,4 +30,5 @@
   - Containerised the full workflow with Docker and implemented a microservices-based architecture.
 
 # Social Links
- - [LinkedIn](https://www.linkedin.com/in/dakshp26)
+[![LinkedIn](https://img.shields.io/badge/-in_Daksh_Pari-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dakshp26)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dakshp26)
