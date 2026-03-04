@@ -16,12 +16,8 @@
 - **Software**: Power BI, Git, Alteryx, Power Automate  
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, PyTorch, TensorFlow, SQLAlchemy, Alembic  
 - **Other Skills**: Cybersecurity, MS Excel, AWS
-
-### Projects
-- **Exploring Hybrid Quantum ML Architectures for Image Classification**  
-  *Python, Qiskit, PyTorch, scikit-learn, MLflow, Matplotlib*  
   
-### Hackathons
+## Hackathons
 - **[Third Place](https://www.equal1.com/post/quantum_challenge_winners) – Quantum Solutions for the Environment Challenge (Equal1), 2025**  
   *Python, PyTorch, Qiskit, Docker, OpenCV*  
   - Developed **“Hybrid Quantum Machine Learning for Wildfire Detection”**, a quantum science-based solution targeting early wildfire detection.
@@ -29,6 +25,9 @@
   - Used OpenCV to process video streams and classify individual frames with the model.
   - Containerised the full workflow with Docker and implemented a microservices-based architecture.
 
-# Social Links
+## Project Showcase
+- [Content Creator AI Agent](https://github.com/dakshp26/low-cost-ai-content-creator)
+
+## Social Links
 [![LinkedIn](https://img.shields.io/badge/-in_Daksh_Pari-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dakshp26)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dakshp26)
