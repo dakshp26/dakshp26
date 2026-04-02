@@ -26,8 +26,8 @@
   - Containerised the full workflow with Docker and implemented a microservices-based architecture.
 
 ## Project Showcase
-- [PDF Dashboard With MCP](https://github.com/dakshp26/PDFDashboardWithMCP)
-- [Content Creator AI Agent](https://github.com/dakshp26/low-cost-ai-content-creator)
+- [PDF Dashboard With MCP](https://github.com/dakshp26/PDFDashboardWithMCP) - Streamlit Dashboard to upload, vectorize, view and chat with PDFs (along with mcp server implementation for retreival by other AI agents)
+- [Content Creator AI Agent](https://github.com/dakshp26/low-cost-ai-content-creator) - Create vertical video content and square images with caption using free stock videos/images from Pexels and MoviePy with Streamlit as the User Interface
 
 ## Social Links
 [![LinkedIn](https://img.shields.io/badge/-in_Daksh_Pari-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dakshp26)
