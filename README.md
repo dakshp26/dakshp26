@@ -26,6 +26,7 @@
   - Containerised the full workflow with Docker and implemented a microservices-based architecture.
 
 ## Project Showcase
+- [PDF Dashboard With MCP](https://github.com/dakshp26/PDFDashboardWithMCP)
 - [Content Creator AI Agent](https://github.com/dakshp26/low-cost-ai-content-creator)
 
 ## Social Links
