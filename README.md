@@ -6,9 +6,12 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-000000?style=flat-square&logo=streamlit&logoColor=red)
 
 
 - 👀 I’m interested in Machine Learning, Full Stack Development, AI Agents and Automation.
+- 💪 Always Building, Always Learning.
+- 🧑‍💼 Open to opportunities.
 
 ## Technical Skills
 - **Languages**: Python, Java, SQL (Postgres), TypeScript  
