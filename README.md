@@ -29,7 +29,8 @@
   - Containerised the full workflow with Docker and implemented a microservices-based architecture.
 
 ## Project Showcase
-- [Terminal Arcade Games](https://github.com/dakshp26/terminal-arcade) - A collection of classic arcade games that run entirely in your terminal — no browser, no GUI, no dependencies beyond Python. — built with Python, Textual, and Rich
+- [Llamagraph](https://github.com/dakshp26/llamagraph) - Visual drag-and-drop AI pipeline builder powered by local Ollama LLMs — no cloud, no code, no limits.
+- [Terminal Arcade](https://github.com/dakshp26/terminal-arcade) - A collection of classic arcade games that run entirely in your terminal — no browser, no GUI, no dependencies beyond Python. — built with Python, Textual, and Rich
 - [PDF Dashboard With MCP](https://github.com/dakshp26/PDFDashboardWithMCP) - Streamlit Dashboard to upload, vectorize, view and chat with PDFs (along with mcp server implementation for retreival by other AI agents)
 - [Content Creator AI Agent](https://github.com/dakshp26/low-cost-ai-content-creator) - Create vertical video content and square images with caption using free stock videos/images from Pexels and MoviePy with Streamlit as the User Interface
 
