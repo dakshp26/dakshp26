@@ -14,11 +14,11 @@
 - 🧑‍💼 Open to opportunities.
 
 ## Technical Skills
-- **Languages**: Python, Java, SQL (Postgres), TypeScript  
-- **Frameworks & Tools**: Jenkins CI/CD, Git, Apache Airflow, MLflow, Qiskit, Streamlit, Docker, Maven, FastAPI  
-- **Software**: Power BI, Git, Alteryx, Power Automate  
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, PyTorch, TensorFlow, SQLAlchemy, Alembic  
-- **Other Skills**: Cybersecurity, MS Excel, AWS
+- **Languages**: Python, TypeScript, JavaScript, Java, SQL (PostgreSQL) 
+- **Frameworks & Libraries**: FastAPI, Next.js, React, LangChain, PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, SQLAlchemy, Alembic, Qiskit, MLflow, Airflow, Streamlit 
+- **Cloud / DevOps**: AWS, Azure SQL, Docker, Jenkins (CI/CD), Git, Power BI, Alteryx 
+- **Concepts**: Data Structures & Algorithms, System Design, REST APIs, Microservices, ETL, Machine Learning, Generative AI / LLMs, Cybersecurity 
+- **Certifications**: Machine Learning (Stanford University); AWS Technical Essentials (AWS); Career skills in Data Analysis (Microsoft & LinkedIn); Alteryx Designer Core
   
 ## Hackathons
 - **[Third Place](https://www.equal1.com/post/quantum_challenge_winners) – Quantum Solutions for the Environment Challenge (Equal1), 2025**  
