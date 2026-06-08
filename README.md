@@ -34,6 +34,11 @@
 - [PDF Dashboard With MCP](https://github.com/dakshp26/PDFDashboardWithMCP) - Streamlit Dashboard to upload, vectorize, view and chat with PDFs (along with mcp server implementation for retreival by other AI agents)
 - [Content Creator AI Agent](https://github.com/dakshp26/low-cost-ai-content-creator) - Create vertical video content and square images with caption using free stock videos/images from Pexels and MoviePy with Streamlit as the User Interface
 
+## 🤝 Open Source Contributions
+
+| Project | Stars | Merged Contributions |
+|----------|-------|---------------|
+| [awesome-python](https://github.com/vinta/awesome-python) | ![⭐](https://img.shields.io/github/stars/vinta/awesome-python?style=social) | [PR #2917](https://github.com/vinta/awesome-python/pull/2917), [PR #2920](https://github.com/vinta/awesome-python/pull/2920) |
 ## Social Links
 [![LinkedIn](https://img.shields.io/badge/-in_Daksh_Pari-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dakshp26)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dakshp26)
