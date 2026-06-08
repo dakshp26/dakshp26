@@ -13,14 +13,14 @@
 - 💪 Always Building, Always Learning.
 - 🧑‍💼 Open to opportunities.
 
-## Technical Skills
+## 🧠 Technical Skills
 - **Languages**: Python, TypeScript, JavaScript, Java, SQL (PostgreSQL) 
 - **Frameworks & Libraries**: FastAPI, Next.js, React, LangChain, PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, SQLAlchemy, Alembic, Qiskit, MLflow, Airflow, Streamlit 
 - **Cloud / DevOps**: AWS, Azure SQL, Docker, Jenkins (CI/CD), Git, Power BI, Alteryx 
 - **Concepts**: Data Structures & Algorithms, System Design, REST APIs, Microservices, ETL, Machine Learning, Generative AI / LLMs, Cybersecurity 
 - **Certifications**: Machine Learning (Stanford University); AWS Technical Essentials (AWS); Career skills in Data Analysis (Microsoft & LinkedIn); Alteryx Designer Core
   
-## Hackathons
+## 🥇 Hackathons
 - **[Third Place](https://www.equal1.com/post/quantum_challenge_winners) – Quantum Solutions for the Environment Challenge (Equal1), 2025**  
   *Python, PyTorch, Qiskit, Docker, OpenCV*  
   - Developed **“Hybrid Quantum Machine Learning for Wildfire Detection”**, a quantum science-based solution targeting early wildfire detection.
@@ -28,7 +28,7 @@
   - Used OpenCV to process video streams and classify individual frames with the model.
   - Containerised the full workflow with Docker and implemented a microservices-based architecture.
 
-## Project Showcase
+## 💡 Project Showcase
 - [Llamagraph](https://github.com/dakshp26/llamagraph) - Visual drag-and-drop AI pipeline builder that runs on local Ollama LLMs. Built with Next.js, FastAPI, Ollama, and React.
 - [Terminal Arcade](https://github.com/dakshp26/terminal-arcade) - Classic arcade games that run entirely in your terminal. Built with Python, Textual, and Rich.
 - [PDF Dashboard With MCP](https://github.com/dakshp26/PDFDashboardWithMCP) - Streamlit Dashboard to upload, vectorize, view and chat with PDFs (along with mcp server implementation for retreival by other AI agents)
@@ -39,6 +39,7 @@
 | Project | Stars | Merged Contributions |
 |----------|-------|---------------|
 | [awesome-python](https://github.com/vinta/awesome-python) | ![⭐](https://img.shields.io/github/stars/vinta/awesome-python?style=social) | [PR #2917](https://github.com/vinta/awesome-python/pull/2917), [PR #2920](https://github.com/vinta/awesome-python/pull/2920) |
-## Social Links
+
+## 🌐 Social Links
 [![LinkedIn](https://img.shields.io/badge/-in_Daksh_Pari-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dakshp26)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dakshp26)
