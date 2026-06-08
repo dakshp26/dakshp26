@@ -28,11 +28,14 @@
   - Used OpenCV to process video streams and classify individual frames with the model.
   - Containerised the full workflow with Docker and implemented a microservices-based architecture.
 
-## 💡 Project Showcase
-- [Llamagraph](https://github.com/dakshp26/llamagraph) - Visual drag-and-drop AI pipeline builder that runs on local Ollama LLMs. Built with Next.js, FastAPI, Ollama, and React.
-- [Terminal Arcade](https://github.com/dakshp26/terminal-arcade) - Classic arcade games that run entirely in your terminal. Built with Python, Textual, and Rich.
-- [PDF Dashboard With MCP](https://github.com/dakshp26/PDFDashboardWithMCP) - Streamlit Dashboard to upload, vectorize, view and chat with PDFs (along with mcp server implementation for retreival by other AI agents)
-- [Content Creator AI Agent](https://github.com/dakshp26/low-cost-ai-content-creator) - Create vertical video content and square images with caption using free stock videos/images from Pexels and MoviePy with Streamlit as the User Interface
+## 🚀 Projects
+
+| Project | Description | Tech Stack |
+|----------|------------|------------|
+| [Llamagraph](https://github.com/dakshp26/llamagraph) | Visual drag-and-drop AI pipeline builder running on local Ollama LLMs | Next.js, FastAPI, Ollama, React |
+| [Terminal Arcade](https://github.com/dakshp26/terminal-arcade) | Classic arcade games running entirely in the terminal | Python, Textual, Rich |
+| [PDF Dashboard With MCP](https://github.com/dakshp26/PDFDashboardWithMCP) | Streamlit dashboard to upload, vectorize, view, and chat with PDFs + MCP retrieval server for AI agents | Streamlit, Python, LangChain, Chroma DB, MCP |
+| [Content Creator AI Agent](https://github.com/dakshp26/low-cost-ai-content-creator) | Generates vertical videos and square images with captions using Pexels + MoviePy via Streamlit UI | Streamlit, Python, LangChain MoviePy, Pexels API |
 
 ## 🤝 Open Source Contributions
 
