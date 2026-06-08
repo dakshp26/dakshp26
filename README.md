@@ -39,7 +39,7 @@
 
 ## 🤝 Open Source Contributions
 
-| Project | Stars | Merged Contributions |
+| Project | Stars | Merged PRs |
 |----------|-------|---------------|
 | [awesome-python](https://github.com/vinta/awesome-python) | ![⭐](https://img.shields.io/github/stars/vinta/awesome-python?style=social) | [PR #2917](https://github.com/vinta/awesome-python/pull/2917), [PR #2920](https://github.com/vinta/awesome-python/pull/2920) |
 
